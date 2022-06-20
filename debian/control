@@ -12,7 +12,8 @@ Build-Depends: debhelper,
                libepoxy-dev,
                libglib2.0-dev (>= 2.44),
                libgtk-3-dev (>= 3.22.23),
-               libmpv-dev (>= 0.32.0)
+               libmpv-dev (>= 0.32.0),
+               meson (>= 0.40.0)
 Standards-Version: 4.4.0
 Homepage: https://github.com/celluloid-player/celluloid
 
