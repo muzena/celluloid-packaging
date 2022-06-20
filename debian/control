@@ -3,7 +3,6 @@ Section: video
 Priority: optional
 Maintainer: Xu Zhen <xuzhen@fastmail.com>
 Build-Depends: debhelper,
-               appstream-util,
                autotools-dev,
                cmake,
                intltool (>= 0.40.6),
