@@ -5,11 +5,12 @@ Maintainer: Xu Zhen <xuzhen@fastmail.com>
 Build-Depends: debhelper,
                appstream-util,
                autotools-dev,
+               cmake,
                intltool (>= 0.40.6),
                pkg-config,
                libepoxy-dev,
                libglib2.0-dev (>= 2.44),
-               libgtk-3-dev (>= 3.22.23) | libgtk-4-dev (>= 4.6.1),
+               libgtk-4-dev (>= 4.6.1),
                libmpv-dev (>= 0.32.0),
                meson (>= 0.40.0)
 Standards-Version: 4.4.0
