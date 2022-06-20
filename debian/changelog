@@ -1,0 +1,162 @@
+celluloid (0.23.0) focal; urgency=emergency
+
+  * New upstream release.
+
+ -- Goran Vidovic (gogo) <trebelnik2@gmail.com>  Mon, 20 Jun 2021 12:20:21 +0200
+
+celluloid (0.20-1~groovy3) groovy; urgency=low
+
+  * Use --without autoreconf
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sat, 19 Sep 2020 21:33:34 +0800
+
+celluloid (0.20-1~groovy2) groovy; urgency=low
+
+  * Fix FTBFS.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sat, 19 Sep 2020 21:19:14 +0800
+
+celluloid (0.20-1~groovy1) groovy; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sat, 19 Sep 2020 21:11:15 +0800
+
+celluloid (0.19-1~focal1) focal; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Fri, 10 Apr 2020 21:48:42 +0800
+
+celluloid (0.18-1~bionic1) bionic; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Wed, 06 Nov 2019 23:41:24 +0800
+
+celluloid (0.17-1~eoan4) eoan; urgency=low
+
+  * Do not run autoreconf, drop debian/patches/gettext.patch
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sat, 31 Aug 2019 00:22:44 +0800
+
+celluloid (0.17-1~eoan3) eoan; urgency=low
+
+  * fix missing files
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Fri, 30 Aug 2019 21:48:56 +0800
+
+celluloid (0.17-1~eoan2) eoan; urgency=low
+
+  * debian/patches/gettext.patch: lower gettext version requirement.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Fri, 30 Aug 2019 20:47:44 +0800
+
+celluloid (0.17-1~eoan1) eoan; urgency=low
+
+  * New upstream release.
+  * Rename to celluloid.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Fri, 30 Aug 2019 20:20:20 +0800
+
+gnome-mpv (0.16-1~disco1) disco; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Wed, 23 Jan 2019 11:30:35 +0000
+
+gnome-mpv (0.15-1~cosmic1) bionic; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Tue, 11 Sep 2018 21:31:29 +0800
+
+gnome-mpv (0.14-1~bionic2) bionic; urgency=low
+
+  * Update mpv version requirement.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Tue, 20 Feb 2018 11:49:48 +0800
+
+gnome-mpv (0.14-1~bionic1) bionic; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Tue, 20 Feb 2018 11:38:11 +0800
+
+gnome-mpv (0.13-1~artful1) artful; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sat, 21 Oct 2017 18:21:28 +0800
+
+gnome-mpv (0.12-1~zesty1) zesty; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Wed, 14 Jun 2017 19:27:48 +0800
+
+gnome-mpv (0.11-1~zesty1) zesty; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Fri, 06 Jan 2017 19:49:59 +0800
+
+gnome-mpv (0.10-1~yakkety2) yakkety; urgency=low
+
+  * Rebuild against GTK 3.20
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Mon, 15 Aug 2016 19:09:31 +0800
+
+gnome-mpv (0.10-1~yakkety1) yakkety; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sun, 31 Jul 2016 19:10:05 +0800
+
+gnome-mpv (0.9-1~yakkety2) yakkety; urgency=low
+
+  * Fix FTBFS.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Wed, 18 May 2016 20:10:35 +0800
+
+gnome-mpv (0.9-1~yakkety1) yakkety; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Wed, 18 May 2016 19:43:20 +0800
+
+gnome-mpv (0.7-1~xenial1) xenial; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sun, 31 Jan 2016 16:15:22 +0800
+
+gnome-mpv (0.6-1~xenial1) xenial; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Tue, 27 Oct 2015 19:31:50 +0800
+
+gnome-mpv (0.5-1~wily1) wily; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Fri, 07 Aug 2015 20:18:30 +0800
+
+gnome-mpv (0.4-1~wily2) wily; urgency=low
+
+  * patches/potfile.patch: Fix FTBFS
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sun, 17 May 2015 13:35:41 +0800
+
+gnome-mpv (0.4-1~wily1) wily; urgency=low
+
+  * New upstream release.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Sun, 17 May 2015 11:22:48 +0800
+
+gnome-mpv (0.3-1~vivid1) vivid; urgency=low
+
+  * Initial ubuntu package.
+
+ -- Xu Zhen <xuzhen@fastmail.com>  Wed, 18 Mar 2015 22:53:16 +0800
