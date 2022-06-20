@@ -2,9 +2,11 @@
 
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
 
 %:
-	dh $@ --without autoreconf
+	dh $@ --buildsystem=meson --without autoreconf
 
 #override_dh_autoreconf:
 #	NOCONFIGURE=1 ./autogen.sh
